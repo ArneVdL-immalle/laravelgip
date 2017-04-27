@@ -1,0 +1,661 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"col",
+				"col-md-offset-2"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"f",
+				"form-control"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"co",
+				"col-md-6"
+			],
+			[
+				"ha",
+				"has-error"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Htt",
+				"Http"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 874,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/users/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 112,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UsersController.php",
+			"settings":
+			{
+				"buffer_size": 1970,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Auth/RegisterController.php",
+			"settings":
+			{
+				"buffer_size": 1812,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 808,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/auth.php",
+			"settings":
+			{
+				"buffer_size": 3251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/users/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 785,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 629,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/auth/login.blade.php",
+			"settings":
+			{
+				"buffer_size": 649,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 578,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"php artisan migrate",
+			"php artisan make:view login"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp2/htdocs/gip1",
+		"/D/xampp2/htdocs/gip1/app",
+		"/D/xampp2/htdocs/gip1/app/Http",
+		"/D/xampp2/htdocs/gip1/app/Http/Controllers",
+		"/D/xampp2/htdocs/gip1/app/Http/Middleware",
+		"/D/xampp2/htdocs/gip1/app/Providers",
+		"/D/xampp2/htdocs/gip1/config",
+		"/D/xampp2/htdocs/gip1/database",
+		"/D/xampp2/htdocs/gip1/database/factories",
+		"/D/xampp2/htdocs/gip1/database/migrations",
+		"/D/xampp2/htdocs/gip1/database/seeds",
+		"/D/xampp2/htdocs/gip1/public",
+		"/D/xampp2/htdocs/gip1/resources",
+		"/D/xampp2/htdocs/gip1/resources/assets",
+		"/D/xampp2/htdocs/gip1/resources/views",
+		"/D/xampp2/htdocs/gip1/resources/views/users",
+		"/D/xampp2/htdocs/gip1/routes",
+		"/D/xampp2/htdocs/gip1/storage"
+	],
+	"file_history":
+	[
+		"/D/xampp2/htdocs/gip1/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/D/xampp2/htdocs/gip1/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/D/xampp2/htdocs/gip1/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/D/xampp2/htdocs/gip1/resources/views/users/create.blade.php",
+		"/D/xampp2/htdocs/gip1/database/seeds/UserTableSeeder.php",
+		"/D/xampp2/htdocs/gip1/database/seeds/DatabaseSeeder.php",
+		"/D/xampp2/htdocs/gip1/app/Providers/AppServiceProvider.php",
+		"/D/xampp2/htdocs/gip1/config/app.php",
+		"/D/xampp2/htdocs/gip1/.env",
+		"/D/xampp2/htdocs/gip/app/Http/Controllers/Auth/LoginController.php",
+		"/D/xampp2/htdocs/gip/resources/views/users/create.blade.php",
+		"/D/xampp2/htdocs/gip/app/Http/Controllers/UsersController.php",
+		"/D/xampp2/htdocs/gip/database/seeds/UserTableSeeder.php",
+		"/D/xampp2/htdocs/gip/database/seeds/DatabaseSeeder.php",
+		"/D/xampp2/htdocs/gip/app/Http/Controllers/AuthController.php",
+		"/D/xampp2/htdocs/gip/resources/views/users/home.blade.php",
+		"/D/xampp2/htdocs/gip/routes/web.php",
+		"/D/xampp2/htdocs/gip/resources/views/layouts/master.blade.php",
+		"/D/xampp2/htdocs/gip/resources/views/auth/login.blade.php",
+		"/D/xampp2/htdocs/gip/resources/views/login.blade.php.old",
+		"/D/xampp2/htdocs/gip/config/auth.php",
+		"/D/xampp2/htdocs/gip/resources/views/login.blade.php",
+		"/D/xampp2/htdocs/gip/database/seeds/gebruikersTableSeeder.php",
+		"/D/xampp2/htdocs/gip/database/migrations/2014_10_12_000000_create_users_table.php.old",
+		"/D/xampp2/htdocs/gip/app/Providers/AppServiceProvider.php",
+		"/D/xampp2/htdocs/gip/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/xampp2/htdocs/gip/.env",
+		"/D/xampp2/htdocs/gip/config/app.php",
+		"/D/xampp2/htdocs/gip/resources/views/layouts/login.blade.php",
+		"/D/xampp2/htdocs/gip/app/Http/Controllers/Auth/AuthController.php",
+		"/D/xampp2/htdocs/gip/public/.htaccess",
+		"/D/xampp2/htdocs/gip/public/index.php",
+		"/C/Program Files (x86)/Minecraft/MinecraftLauncher.exe",
+		"/D/FTBPresentsDirewolf20110Server_1.8.1/world/EnderStorage/data1.dat",
+		"/C/Users/User 1/AppData/Roaming/.minecraft - Copy/saves/Vacla's world - Copie/data/idcounts.dat"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\xampp2\\htdocs\\gip1",
+			"D:\\xampp2\\htdocs\\gip"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DB",
+			"Illuminate",
+			"create",
+			"select",
+			"create",
+			"AppServiceProvider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								874,
+								874
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/users/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/UsersController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1423,
+								1423
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/Auth/RegisterController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/auth.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/users/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Http/Controllers/AuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/views/auth/login.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "resources/views/layouts/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gip1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
